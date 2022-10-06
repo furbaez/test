@@ -1,2 +1,2 @@
-https://newrelic.com
-https://google.com
+http://newrelic.com
+http://google.com
